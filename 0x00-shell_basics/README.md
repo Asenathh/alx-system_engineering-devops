@@ -1,1 +1,1 @@
-some text fr this read me
+My first commit in a long format
