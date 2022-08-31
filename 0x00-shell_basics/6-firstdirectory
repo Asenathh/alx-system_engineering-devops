@@ -1,7 +1,10 @@
 #!/bin/bash
 file /tmp/my_first_directory
+<<<<<<< HEAD
 echo file /tmp/my_first_directory
 file /tmp/my_first_directory
 file /tmp/my_first_directory: directory
 file /tmp/my_first_directory/
 mkdir /tmp/My_first_directory/
+=======
+>>>>>>> 5f3702670edc4b34085dfd216514554d29b57614
