@@ -2,3 +2,4 @@
 file /tmp/my_first_directory
 echo file /tmp/my_first_directory
 file /tmp/my_first_directory
+file /tmp/my_first_directory: directory
